@@ -1,29 +1,17 @@
-pig-dice
-========
+## Synopsis
+This project is a "vanilla" pigdice project made from javascript.
 
-A JavaScript web app that implements the game [Pig Dice](http://en.wikipedia.org/wiki/Pig_%28dice_game%29). Written with the help of [JQuery](http://jquery.com/), [Mocha](http://mochajs.org/), [Chai](http://chaijs.com/), and [Bootstrap](http://http://getbootstrap.com/).
+## Code Example
+Kindly to access my codes clone the repository.
 
-Usage
------
+## Motivation
+My motivation to build this project was to improve myself and become better each and everyday.
 
-In your browser, open the `pig.html` file.
+## Tests
+Kindly access my gists I have a sample code for one of my projects, you can run it through console.log() to test.
 
-Pig Dice is a two player game. Click the `roll dice` button to roll the dice. Click the `hold` button to save the current score to your total. If you roll a one, your turn ends and you lose all points rolled.
+## Contributors
+Majority of the work I have done solo, kindly for any correction or improvement, contact me at collotush@gmail.com
 
-Keyboard Controls
------------------
-
-Player one roll: `Z`
-Player two roll: `/`
-Hold:            `Space`
-
-
-About
------
-
-Written by Clem Freeman and Jay Sivakumaran at [Epicodus](http://www.epicodus.com/).
-
-License
--------
-
-This projected is licensed under the terms of the MIT license.
+## License
+The project is under license by EuroAfric
