@@ -1,29 +1,29 @@
-pig-dice
-========
+# Author
+Collins Mutuma
 
-A JavaScript web app that implements the game [Pig Dice](http://en.wikipedia.org/wiki/Pig_%28dice_game%29). Written with the help of [JQuery](http://jquery.com/), [Mocha](http://mochajs.org/), [Chai](http://chaijs.com/), and [Bootstrap](http://http://getbootstrap.com/).
+# Description
+It is a game of dice; roll from 2-6 earn the marks, get 1 and lose them all.
 
-Usage
------
+# Github-link
+https://collinsmwiti.github.io/pigdice.github.io/
 
-In your browser, open the `pig.html` file.
+# Installation
+For installation kindly you can clone the project and it will be installed automatically.
 
-Pig Dice is a two player game. Click the `roll dice` button to roll the dice. Click the `hold` button to save the current score to your total. If you roll a one, your turn ends and you lose all points rolled.
+# Contacts
+To find me, here is my account mwiticmutumamwenda@gmail.com
 
-Keyboard Controls
------------------
+# Code Example
+Kindly to access my codes clone the repository.
 
-Player one roll: `Z`
-Player two roll: `/`
-Hold:            `Space`
+# Motivation
+My motivation to build this project was to improve myself and become better each and everyday.
 
+# Tests
+Kindly access my gists I have a sample code for one of my projects, you can run it through console.log() to test.
 
-About
------
+# Contributors
+Majority of the work I have done is for educational purposes, kindly for any correction or improvement, please contact me.
 
-Written by Clem Freeman and Jay Sivakumaran at [Epicodus](http://www.epicodus.com/).
-
-License
--------
-
-This projected is licensed under the terms of the MIT license.
+# License
+The project is under license by MIT
